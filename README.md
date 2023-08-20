@@ -7,5 +7,6 @@ Hi it's Mingyu Kwak 👋
  
 - Recently...
   - found that PWA(Progressive Web App) is really cool.
-  - trying to make my days meaningful😎
+  - learning C# & Unity 3D for fun 😎
+  - trying to understand how the tools I use work.
 ```
