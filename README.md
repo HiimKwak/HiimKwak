@@ -1,11 +1,12 @@
 ```
-Hi it's Mingyu Kwak 👋
+Hi. I'm Mingyu Kwak.
 
 - I'm currently...
   - looking for my first job.
-  - interested in TypeScript, Next.js, React, and Radix UI.
+  - interested in TypeScript, Next.js, React, and tailwindCSS.
+  - have no hesitation in taking new features and APIs.
  
 - Recently...
   - trying to understand the way the tools I use work.
-  - learning C# & Unity 3D for fun 😎
+  - excited because of the first user event in my service, [hufchichi](https://github.com/hufs-sports-live/client).
 ```
