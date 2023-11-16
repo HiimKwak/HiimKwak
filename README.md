@@ -1,4 +1,4 @@
-```
+
 Hi. I'm Mingyu Kwak.
 
 - I'm currently...
@@ -9,4 +9,3 @@ Hi. I'm Mingyu Kwak.
 - Recently...
   - trying to understand the way the tools I use work.
   - excited because of the first user event in my service, [hufchichi](https://github.com/hufs-sports-live/client).
-```
