@@ -1,1 +1,1 @@
-![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://youtu.be/fXivMSJm_kA?si=zMVu7XxUetExjpSL&theme=stream)
+[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2FfXivMSJm_kA%3Fsi%3DzMVu7XxUetExjpSL&theme=glass&layout=compact)](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2FfXivMSJm_kA%3Fsi%3DzMVu7XxUetExjpSL&theme=glass&layout=compact)
